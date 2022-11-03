@@ -1,6 +1,6 @@
-# RLDM2022
+# ICML2023
 
-Code used for experiments reported in RLDM2022 submission "Accelerating Reinforcement Learning using Frequently Used Transition Pathways".
+Code used for experiments reported in ICML2023 submission "Accelerating Reinforcement Learning using Frequently Used Transition Pathways".
 
 Details regarding parameters used for experiments can be found in /engine/Main.cpp, which is the entry point for the experiment code.
 
